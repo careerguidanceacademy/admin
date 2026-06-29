@@ -1,0 +1,23 @@
+{
+  "name": "CGA cPANEL",
+  "short_name": "CGA cPANEL",
+  "description": "Career Guidance Academy ID Card Generator",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#33a1dd",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://i.ibb.co/HfP6ZSTH/f4f7eb0d-d753-4066-9b9b-4a7a09bab50c-removalai-preview.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://i.ibb.co/HfP6ZSTH/f4f7eb0d-d753-4066-9b9b-4a7a09bab50c-removalai-preview.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
+
